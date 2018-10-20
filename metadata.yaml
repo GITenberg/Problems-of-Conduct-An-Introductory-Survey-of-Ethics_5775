@@ -1,5 +1,5 @@
 _repo: Problems-of-Conduct-An-Introductory-Survey-of-Ethics_5775
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BJ'
 - !lcsh 'Ethics'
+- GITenberg
 tableOfContents: 'The evolution of morality -- The origin of personal morality --
   The origin of social morality -- Outward development: morals -- Inward development:
   conscience -- The individualizing of conscience -- Can we base morality upon conscience
